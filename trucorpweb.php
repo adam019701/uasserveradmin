@@ -26,6 +26,7 @@
 
 $conn -> close();
 ?>
+<?php echo "Total user: 4"?>
 
 </body>
 </html>
